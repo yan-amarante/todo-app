@@ -1,0 +1,21 @@
+.container-sidebar{
+    background-color: #FFFF99;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+    height: 90%;
+    position: relative;
+}
+.botao-sidebar{
+    position: absolute;
+    bottom: 0;
+    border: none;
+    width: 90%;
+    margin-bottom: 0.5rem;
+    height: 5%;
+}
+.texto-botao-sidebar{
+    font-weight: bold;
+    font-size: 1.5rem;
+}

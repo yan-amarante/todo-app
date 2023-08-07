@@ -1,0 +1,11 @@
+.container-app{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 85vh;
+    gap: 1rem;
+}
+.titulo-app{
+    font-weight: bold;
+    font-size: 5rem;
+}
