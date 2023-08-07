@@ -1,7 +1,7 @@
 import "./Home.css"
 
-function Home (){
-    return(
+function Home() {
+    return (
         <div className="container-home"></div>
     )
 }

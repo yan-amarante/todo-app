@@ -1,1 +1,0 @@
-{"version":3,"file":"routes.js","sourceRoot":"","sources":["../../../src/tarefas/routes.ts"],"names":[],"mappings":"AAAA,OAAQ,EAAE,MAAM,EAAC,MAAO,SAAS,CAAC;AAClC,OAAO,EAAE,UAAU,EAAC,eAAe,EAAE,MAAM,iBAAiB,CAAC;AAE7D,IAAI,aAAa,GAAU,MAAM,EAAE,CAAC;AAEpC,aAAa,CAAC,GAAG,CAAC,cAAc,EAAE,UAAU,CAAC,CAAC;AAC9C,aAAa,CAAC,IAAI,CAAC,oBAAoB,EAAE,eAAe,CAAC,CAAC;AAE1D,eAAe,aAAa,CAAA"}
